@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💡 Propose an Idea
+    url: https://github.com/ReleaseBay/community/discussions/new?category=ideas
+    about: Share ideas or propose new features
+  - name: 🐞 Report a Bug
+    url: https://github.com/ReleaseBay/community/discussions/new?category=bug-reports
+    about: Report any problem with the platform
+  - name: ❓ Ask a Question
+    url: https://github.com/ReleaseBay/community/discussions/new?category=q-a
+    about: Ask anything related to the project, how it works, how can it help you improve your workflow, whatever comes to your mind
